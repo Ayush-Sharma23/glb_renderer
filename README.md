@@ -2,6 +2,8 @@
 
 A Vulkan-based glTF/GLB renderer in C++20 with bindless textures, Cook-Torrance GGX PBR, and image-based lighting.
 
+[![Watch the video](https://raw.githubusercontent.com/Ayush-Sharma23/glb_renderer/main/swappy-20260617-170127.png)](https://raw.githubusercontent.com/Ayush-Sharma23/glb_renderer/demo_glb.mp4)
+
 ## Features
 
 - Loads and renders glTF 2.0 binary (.glb) and JSON (.gltf) models
